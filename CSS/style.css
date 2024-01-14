@@ -207,9 +207,9 @@ nav a:nth-child(2):hover{
 
 @media (max-width:600px){
     #page2{
-        height:30vh;
+        height:20vh;
     }
     #page3{
-        height:60vh;
+        height:40vh;
     }
 }
