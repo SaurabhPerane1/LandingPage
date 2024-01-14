@@ -204,3 +204,12 @@ nav a:nth-child(2):hover{
     border: solid;
     width: 20vmin;
 }
+
+@media (max-width:600px){
+    #page2{
+        height:30vh;
+    }
+    #page3{
+        height:60vh;
+    }
+}
